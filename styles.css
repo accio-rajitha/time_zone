@@ -1,0 +1,38 @@
+body {
+      font-family:Arial, Helvetica, sans-serif;
+      margin: 10px;
+    }
+    #current-timezone{
+      border: 2px solid #ccc;
+      padding: 15px;
+      width: 400px;
+      background-color: #f9f9f9;
+      line-height: 1.6;
+     
+    }
+    input, button {
+      margin: 10px 0;
+      padding: 10px;
+      font-size: 16px;
+    }
+    
+#address-input{
+  width: 100%;
+  max-width: 400px;
+}
+#error-message {
+  color: red;
+  font-size: 14px;
+  display: none; 
+}
+    #timezone-display {
+      display: none;
+      border: 2px solid #ccc;
+      padding: 15px;
+      width: 400px;
+      background-color: #f9f9f9;
+      line-height: 1.6;
+      
+    }
+   
+
